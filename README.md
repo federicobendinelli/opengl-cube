@@ -1,6 +1,5 @@
-# golden
+# opengl cube
 
-## This is the first step towards creating a game engine in c++
-## The code itself is pretty basic
+## this is currenntly version 0.0.2, i added uv's
 
-### Note: there are a few parts of code that are commented, that is because these parts must be fixed and should make some uvs on it.
+## in the next update, i will add lighting, texture importers, and ideally some kind of objectification to buffers and cameras  
