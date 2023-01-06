@@ -1,5 +1,13 @@
 # opengl cube
 
-## this is currenntly version 0.0.2, i added uv's
+## version 0.1.0 is now released (6/1/2023): here are the updates
+- UV's are now fully forking
+- Added the EBO (elements buffer object)
+- Orbit controls
+- Wireframe render
+- Fov customization
 
-## in the next update, i will add lighting, texture importers, and ideally some kind of objectification to buffers and cameras  
+## coming soon:
+- Fist person controls
+- Menu for debugging
+- Much more...
